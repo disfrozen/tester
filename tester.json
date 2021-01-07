@@ -1,0 +1,50 @@
+[
+  {
+    "tag":"1",
+    "etapa":"Evaluación de la propuesta",
+    "link":"primera.html",
+    "imagen":"https://image.prntscr.com/image/mTFcMoasRXi9jRdAS1oE4Q.png",
+    "texto":"",
+    "siguiente":"Desarrollo de la propuesta"
+  },
+  {
+    "tag":"2",
+    "etapa":"Desarrollo de la propuesta",
+    "link":"segunda.html",
+    "imagen":"https://image.prntscr.com/image/mTFcMoasRXi9jRdAS1oE4Q.png",
+    "texto":"",
+    "siguiente":"Aceptación del cliente"
+  },
+  {
+    "tag":"3",
+    "etapa":"Aceptación del cliente",
+    "link":"tercera.html",
+    "imagen":"https://image.prntscr.com/image/mTFcMoasRXi9jRdAS1oE4Q.png",
+    "texto":"",
+    "siguiente":"Planificación del proyecto"
+  },
+  {
+    "tag":"4",
+    "etapa":"Planificación del proyecto",
+    "link":"cuarta.html",
+    "imagen":"https://image.prntscr.com/image/mTFcMoasRXi9jRdAS1oE4Q.png",
+    "texto":"",
+    "siguiente":"Desarrollo del proyecto"
+  },
+  {
+    "tag":"5",
+    "etapa":"Desarrollo del proyecto",
+    "link":"quinta.html",
+    "imagen":"https://image.prntscr.com/image/mTFcMoasRXi9jRdAS1oE4Q.png",
+    "texto":"",
+    "siguiente":"Finalización del proyecto"
+  },
+  {
+    "tag":"6",
+    "etapa":"Finalización del proyecto",
+    "link":"sexta.html",
+    "imagen":"https://image.prntscr.com/image/mTFcMoasRXi9jRdAS1oE4Q.png",
+    "texto":"",
+    "siguiente":"Fin"
+  }
+]
