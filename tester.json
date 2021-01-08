@@ -1,5 +1,6 @@
 [
   {
+    "id": 0,
     "tag":"1",
     "etapa":"Evaluación de la propuesta",
     "link":"primera.html",
@@ -10,6 +11,7 @@
     "next":"segunda.html"
   },
   {
+    "id": 1,
     "tag":"2",
     "etapa":"Desarrollo de la propuesta",
     "link":"segunda.html",
@@ -20,6 +22,7 @@
     "next":"tercera.html"
   },
   {
+    "id": 2,
     "tag":"3",
     "etapa":"Aceptación del cliente",
     "link":"tercera.html",
@@ -30,6 +33,7 @@
     "next":"cuarta.html"
   },
   {
+    "id": 3,
     "tag":"4",
     "etapa":"Planificación del proyecto",
     "link":"cuarta.html",
@@ -40,6 +44,7 @@
     "next":"quinta.html"
   },
   {
+    "id": 4,
     "tag":"5",
     "etapa":"Desarrollo del proyecto",
     "link":"quinta.html",
@@ -50,6 +55,7 @@
     "next":"sexta.html"
   },
   {
+    "id": 5,
     "tag":"6",
     "etapa":"Finalización del proyecto",
     "link":"sexta.html",
