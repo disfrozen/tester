@@ -1,0 +1,182 @@
+[{
+  "endlink":"bravo.html",
+  "next":"Desarrollo de la propuesta",
+  "nextnumber": "2",
+  "card" : [
+  {
+    "link":"#",
+    "title":"Identificación de la potencial oportunidad de negocio",
+    "texto":[""]
+  },
+  {
+    "link":"a-bravo.html",
+    "title":"Exploración de riesgos y oportunidades",
+    "texto":["Análisis Go No Go"]
+  },
+  {
+    "link":"a-charlie.html",
+    "title":"Autorización para participar en la propuesta",
+    "texto":["Aprobación del Go No Go", "- Delegación de autoridad"]
+  }]
+},
+{
+  "endlink":"charlie.html",
+  "next":"Aceptación del cliente",
+  "nextnumber": "3",
+  "card" : [
+  {
+    "link":"b-alpha.html",
+    "title":"Generación del código de la propuesta",
+    "texto":["Plataforma de control de cotizaciones o matriz de control de cotizaciones"]
+  },
+  {
+    "link":"b-bravo.html",
+    "title":"Revisión detallada de los requisitos contractuales",
+    "texto":["El equipo de revisión debe estar conformado por área de Fiscalía, área Comercial y área Técnica.", "- Correo electrónico.", "- Minuta de reunión."]
+  },
+  {
+    "link":"b-charlie.html",
+    "title":"Desarrollo de la propuesta técnica y económica",
+    "texto":["Propuesta técnica", "Propuesta económica", "Formato de propuesta","Plantilla de presentación"]
+  },
+  {
+    "link":"b-delta.html",
+    "title":"Revisión y aprobación de la propuesta",
+    "texto":["Equipo pricing", "- Delegación de autoridad"]
+  },
+  {
+    "link":"b-echo.html",
+    "title":"Autorización del envío de la propuesta al cliente",
+    "texto":["- Delegación de autoridad."]
+  }]
+},
+{
+  "endlink":"delta.html",
+  "next":"Planificación del proyecto",
+  "nextnumber": "4",
+  "card" : [
+  {
+    "link":"c-alpha.html",
+    "title":"Confirmación de aceptación por parte del cliente",
+    "texto":["Debe estar por escrito:", "- Correo electrónico", "- Carta"]
+  },
+  {
+    "link":"c-bravo.html",
+    "title":"Cambio del estatus de la propuesta en el sistema",
+    "texto":["Plataforma de control de cotizaciones o matriz de control de cotizaciones"]
+  },
+  {
+    "link":"c-charlie.html",
+    "title":"Obtención de información adicional requerida de parte del cliente",
+    "texto":["- Correo electrónico", "- Minuta de Reunión"]
+  },
+  {
+    "link":"c-delta.html",
+    "title":"Aceptación formal o autorización apropiada para proceder",
+    "texto":["- Contrato firmado o equivalente", "- Comunicación para proceder", "- OC / ODS", "El acuerdo comercial debe ser firmado por el cliente y los representantes de WSP de acuerdo a la DoA"]
+  },
+  {
+    "link":"c-echo.html",
+    "title":"Nombramiento del Jefe / Gerente de Proyecto",
+    "texto":["- Correo electrónico", "- Minuta de reunión"]
+  },
+  {
+    "link":"c-foxtrot.html",
+    "title":"Transferencia de la propuesta del área comercial a operaciones",
+    "texto":["Registro del avance, del cronograma, del presupuesto, y los términos y condiciones del contrato", "Aprobaciones necesarias, requisitos de facturación, elementos de riesgo, etc."]
+  }]
+},
+{
+  "endlink":"echo.html",
+  "next":"Desarrollo del proyecto",
+  "nextnumber": "5",
+  "card" : [
+  {
+    "link":"d-alpha.html",
+    "title":"Gestión del desempeño del proyecto",
+    "texto":["Comunicaciones", "Contratos", "Cronograma o programa", "Recursos monetarios y humanos"]
+  },
+  {
+    "link":"d-bravo.html",
+    "title":"Gestión técnica de los entregables",
+    "texto":["Tiempos establecidos y coordinación de entrega", "Calidad y cumplimiento de normas", "Gestión del modelo (BIM)"]
+  },
+  {
+    "link":"d-charlie.html",
+    "title":"Gestión financiera",
+    "texto":["Monitoreo del presupuesto (BST)", "Facturación (BST)", "Planificación de recursos: e-Resource (BST)"]
+  },
+  {
+    "link":"d-delta.html",
+    "title":"Gestión de riesgos",
+    "texto":["Acciones establecidas para mitigar riesgos calificados", "Definición de plazos apropiados para revisión de riesgos y oportunidades"]
+  },
+  {
+    "link":"d-echo.html",
+    "title":"Gestión del cambio",
+    "texto":["Protocolos de cambio", "Evaluación del impacto del cambio","Elaboración de órdenes de cambio","Facturación por variaciones"]
+  }]
+},
+{
+  "endlink":"foxtrot.html",
+  "next":"Finalización del proyecto",
+  "nextnumber": "6",
+  "card" : [
+  {
+    "link":"e-alpha.html",
+    "title":"Gestión del desempeño del proyecto",
+    "texto":["Comunicaciones", "Contratos", "Cronograma o programa", "Recursos monetarios y humanos"]
+  },
+  {
+    "link":"e-bravo.html",
+    "title":"Gestión técnica de los entregables",
+    "texto":["Tiempos establecidos y coordinación de entrega", "Calidad y cumplimiento de normas", "Gestión del modelo (BIM)"]
+  },
+  {
+    "link":"e-charlie.html",
+    "title":"Gestión financiera",
+    "texto":["Monitoreo del presupuesto (BST)", "Facturación (BST)", "Planificación de recursos: e-Resource (BST)"]
+  },
+  {
+    "link":"e-delta.html",
+    "title":"Gestión de riesgos",
+    "texto":["Acciones establecidas para mitigar riesgos calificados", "Definición de plazos apropiados para revisión de riesgos y oportunidades"]
+  },
+  {
+    "link":"e-echo.html",
+    "title":"Gestión del cambio",
+    "texto":["Protocolos de cambio", "Evaluación del impacto del cambio","Elaboración de órdenes de cambio","Facturación por variaciones"]
+  }]
+},
+{
+  "endlink":"index.html",
+  "next":"FIN",
+  "nextnumber": "",
+  "card" : [
+  {
+    "link":"f-alpha.html",
+    "title":"Gestión del desempeño del proyecto",
+    "texto":["Comunicaciones", "Contratos", "Cronograma o programa", "Recursos monetarios y humanos"]
+  },
+  {
+    "link":"f-bravo.html",
+    "title":"Gestión técnica de los entregables",
+    "texto":["Tiempos establecidos y coordinación de entrega", "Calidad y cumplimiento de normas", "Gestión del modelo (BIM)"]
+  },
+  {
+    "link":"f-charlie.html",
+    "title":"Gestión financiera",
+    "texto":["Monitoreo del presupuesto (BST)", "Facturación (BST)", "Planificación de recursos: e-Resource (BST)"]
+  },
+  {
+    "link":"f-delta.html",
+    "title":"Gestión de riesgos",
+    "texto":["Acciones establecidas para mitigar riesgos calificados", "Definición de plazos apropiados para revisión de riesgos y oportunidades"]
+  },
+  {
+    "link":"f-echo.html",
+    "title":"Gestión del cambio",
+    "texto":["Protocolos de cambio", "Evaluación del impacto del cambio","Elaboración de órdenes de cambio","Facturación por variaciones"]
+  }]
+}
+]
