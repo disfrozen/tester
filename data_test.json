@@ -2,6 +2,9 @@
   "endlink":"foxtrot.html",
   "next":"Finalización del proyecto",
   "nextnumber": "6",
+  "arrow":"<div class=\"col-1 arrow-spacer\"
+    style=\"text-align:center; margin: auto 0;\">
+    <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 50 85\" height=\"60\" class=\"svg-arrow\"><defs><style>.a{fill:#333e48;}</style></defs><title>arrow_right</title><polygon class=\"a\" points=\"0 0 0 23.59 22.25 42.5 0 61.41 0 85 50 42.5 0 0\"/></svg></div>",
   "card" : [
   {
     "link":"e-alpha.html",
