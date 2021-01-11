@@ -1,0 +1,31 @@
+{
+  "endlink":"foxtrot.html",
+  "next":"Finalización del proyecto",
+  "nextnumber": "6",
+  "card" : [
+  {
+    "link":"e-alpha.html",
+    "title":"Gestión del desempeño del proyecto",
+    "texto":["Comunicaciones", "Contratos", "Cronograma o programa", "Recursos monetarios y humanos"]
+  },
+  {
+    "link":"e-bravo.html",
+    "title":"Gestión técnica de los entregables",
+    "texto":["Tiempos establecidos y coordinación de entrega", "Calidad y cumplimiento de normas", "Gestión del modelo (BIM)"]
+  },
+  {
+    "link":"e-charlie.html",
+    "title":"Gestión financiera",
+    "texto":["Monitoreo del presupuesto (BST)", "Facturación (BST)", "Planificación de recursos: e-Resource (BST)"]
+  },
+  {
+    "link":"e-delta.html",
+    "title":"Gestión de riesgos",
+    "texto":["Acciones establecidas para mitigar riesgos calificados", "Definición de plazos apropiados para revisión de riesgos y oportunidades"]
+  },
+  {
+    "link":"e-echo.html",
+    "title":"Gestión de riesgos",
+    "texto":["Protocolos de cambio", "Evaluación del impacto del cambio","Elaboración de órdenes de cambio","Facturación por variaciones"]
+  }]
+}
