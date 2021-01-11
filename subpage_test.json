@@ -1,0 +1,93 @@
+[{
+  "maintitle":"Desarrollo del proyecto",
+  "mainlink":"echo.html",
+  "next":"e-charlie.html",
+  "title":"Gestión técnica de los entregables",
+  "button":[
+  {
+    "link":"eb-alpha.html",
+    "cardtext":"Gestión de los tiempos establecidos para la emisión",
+    "steps":[
+        {
+          "title":"Revisión del diseño y desarrollo",
+          "link":"ebc-alpha.html"
+        },{
+          "title":"Verificación del diseño y desarrollo",
+          "link":"ebc-bravo.html"
+        },{
+          "title":"Validación del diseño y desarrollo",
+          "link":"ebc-charlie.html"
+        },{
+          "title":"Salidas del diseño y desarrollo",
+          "link":"ebc-delta.html"
+        }]},
+        {
+    "link":"eb-bravo.html",
+    "cardtext":"Gestión de la coordinación",
+    "steps":[
+        {
+          "title":"Revisión del diseño y desarrollo",
+          "link":"ebc-alpha.html"
+        },{
+          "title":"Verificación del diseño y desarrollo",
+          "link":"ebc-bravo.html"
+        },{
+          "title":"Validación del diseño y desarrollo",
+          "link":"ebc-charlie.html"
+        },{
+          "title":"Salidas del diseño y desarrollo",
+          "link":"ebc-delta.html"
+        }]},
+  {
+    "link":"eb-charlie.html",
+    "cardtext":"Gestión de la calidad para garantizar la revisión, verificación, validación y cumplimiento de requisitos",
+    "steps":[
+        {
+          "title":"Revisión del diseño y desarrollo",
+          "link":"ebc-alpha.html"
+        },{
+          "title":"Verificación del diseño y desarrollo",
+          "link":"ebc-bravo.html"
+        },{
+          "title":"Validación del diseño y desarrollo",
+          "link":"ebc-charlie.html"
+        },{
+          "title":"Salidas del diseño y desarrollo",
+          "link":"ebc-delta.html"
+        }]},
+  {
+    "link":"eb-delta.html",
+    "cardtext":"Gestión del cumplimiento de estándares normativos y legales requeridos",
+    "steps":[
+        {
+          "title":"Revisión del diseño y desarrollo",
+          "link":"ebc-alpha.html"
+        },{
+          "title":"Verificación del diseño y desarrollo",
+          "link":"ebc-bravo.html"
+        },{
+          "title":"Validación del diseño y desarrollo",
+          "link":"ebc-charlie.html"
+        },{
+          "title":"Salidas del diseño y desarrollo",
+          "link":"ebc-delta.html"
+        }]},
+  {
+    "link":"eb-echo.html",
+    "cardtext":"Gestión del modelo (IBM)",
+    "steps":[
+        {
+          "title":"Revisión del diseño y desarrollo",
+          "link":"ebc-alpha.html"
+        },{
+          "title":"Verificación del diseño y desarrollo",
+          "link":"ebc-bravo.html"
+        },{
+          "title":"Validación del diseño y desarrollo",
+          "link":"ebc-charlie.html"
+        },{
+          "title":"Salidas del diseño y desarrollo",
+          "link":"ebc-delta.html"
+        }]
+  }]
+}]
