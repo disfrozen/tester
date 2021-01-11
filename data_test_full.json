@@ -1,5 +1,5 @@
 [{
-  "id": "1";
+  "id": "1",
   "endlink":"bravo.html",
   "next":"Desarrollo de la propuesta",
   "nextnumber": "2",
@@ -21,7 +21,7 @@
   }]
 },
 {
-  "id": "2";
+  "id": "2",
   "endlink":"charlie.html",
   "next":"Aceptación del cliente",
   "nextnumber": "3",
@@ -53,7 +53,7 @@
   }]
 },
 {
-  "id": "3";
+  "id": "3",
   "endlink":"delta.html",
   "next":"Planificación del proyecto",
   "nextnumber": "4",
@@ -90,7 +90,7 @@
   }]
 },
 {
-  "id": "4";
+  "id": "4",
   "endlink":"echo.html",
   "next":"Desarrollo del proyecto",
   "nextnumber": "5",
@@ -148,7 +148,7 @@
 ]
 },
 {
-  "id": "5";
+  "id": "5",
   "endlink":"foxtrot.html",
   "next":"Finalización del proyecto",
   "nextnumber": "6",
@@ -180,7 +180,7 @@
   }]
 },
 {
-  "id": "6";
+  "id": "6",
   "endlink":"index.html",
   "next":"FIN",
   "nextnumber": "",
