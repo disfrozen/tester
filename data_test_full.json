@@ -1,4 +1,5 @@
 [{
+  "id": "1";
   "endlink":"bravo.html",
   "next":"Desarrollo de la propuesta",
   "nextnumber": "2",
@@ -20,6 +21,7 @@
   }]
 },
 {
+  "id": "2";
   "endlink":"charlie.html",
   "next":"Aceptación del cliente",
   "nextnumber": "3",
@@ -51,6 +53,7 @@
   }]
 },
 {
+  "id": "3";
   "endlink":"delta.html",
   "next":"Planificación del proyecto",
   "nextnumber": "4",
@@ -87,37 +90,65 @@
   }]
 },
 {
+  "id": "4";
   "endlink":"echo.html",
   "next":"Desarrollo del proyecto",
   "nextnumber": "5",
   "card" : [
   {
     "link":"d-alpha.html",
-    "title":"Gestión del desempeño del proyecto",
+    "title":"Apertura del proyecto en el ERP",
     "texto":["Comunicaciones", "Contratos", "Cronograma o programa", "Recursos monetarios y humanos"]
   },
   {
     "link":"d-bravo.html",
-    "title":"Gestión técnica de los entregables",
+    "title":"Conformación del equipo de proyecto",
     "texto":["Tiempos establecidos y coordinación de entrega", "Calidad y cumplimiento de normas", "Gestión del modelo (BIM)"]
   },
   {
     "link":"d-charlie.html",
-    "title":"Gestión financiera",
+    "title":"Revisión detallada del contrato, anexos técnicos y requisitos legales del proyecto",
     "texto":["Monitoreo del presupuesto (BST)", "Facturación (BST)", "Planificación de recursos: e-Resource (BST)"]
   },
   {
     "link":"d-delta.html",
-    "title":"Gestión de riesgos",
+    "title":"Confirmación de alcances, plazos, entregables y cronograma",
     "texto":["Acciones establecidas para mitigar riesgos calificados", "Definición de plazos apropiados para revisión de riesgos y oportunidades"]
   },
   {
     "link":"d-echo.html",
-    "title":"Gestión del cambio",
+    "title":"Gestión de la subcontratación de servicios profesionales",
     "texto":["Protocolos de cambio", "Evaluación del impacto del cambio","Elaboración de órdenes de cambio","Facturación por variaciones"]
-  }]
+  },
+  {
+    "link":"d-foxtrot.html",
+    "title":"Identificación de peligros e impactos ambientales",
+    "texto":["Protocolos de cambio", "Evaluación del impacto del cambio","Elaboración de órdenes de cambio","Facturación por variaciones"]
+  },
+  {
+    "link":"d-golf.html",
+    "title":"Gestión de acreditaciones y certificaciones requeridas para la ejecución del proyecto",
+    "texto":["Protocolos de cambio", "Evaluación del impacto del cambio","Elaboración de órdenes de cambio","Facturación por variaciones"]
+  },
+  {
+    "link":"d-hotel.html",
+    "title":"Planificación de los riesgos y oportunidades del proyecto",
+    "texto":["Protocolos de cambio", "Evaluación del impacto del cambio","Elaboración de órdenes de cambio","Facturación por variaciones"]
+  },
+  {
+    "link":"d-india.html",
+    "title":"Reunión de inicio de proyecto con el cliente (Kickoff meeting)",
+    "texto":["Protocolos de cambio", "Evaluación del impacto del cambio","Elaboración de órdenes de cambio","Facturación por variaciones"]
+  },
+  {
+    "link":"d-juliet.html",
+    "title":"Reunión de inicio de proyecto interna con el equipo de trabajo",
+    "texto":["Protocolos de cambio", "Evaluación del impacto del cambio","Elaboración de órdenes de cambio","Facturación por variaciones"]
+  }
+]
 },
 {
+  "id": "5";
   "endlink":"foxtrot.html",
   "next":"Finalización del proyecto",
   "nextnumber": "6",
@@ -149,34 +180,45 @@
   }]
 },
 {
+  "id": "6";
   "endlink":"index.html",
   "next":"FIN",
   "nextnumber": "",
   "card" : [
   {
     "link":"f-alpha.html",
-    "title":"Gestión del desempeño del proyecto",
+    "title":"Confirmación de la emisión y aceptación de entregables",
     "texto":["Comunicaciones", "Contratos", "Cronograma o programa", "Recursos monetarios y humanos"]
   },
   {
     "link":"f-bravo.html",
-    "title":"Gestión técnica de los entregables",
+    "title":"Confirmación del cierre legal y financiero del proyecto",
     "texto":["Tiempos establecidos y coordinación de entrega", "Calidad y cumplimiento de normas", "Gestión del modelo (BIM)"]
   },
   {
     "link":"f-charlie.html",
-    "title":"Gestión financiera",
+    "title":"Medición de la percepción de la satisfacción del cliente, lecciones aprendidas y certificados de experiencia",
     "texto":["Monitoreo del presupuesto (BST)", "Facturación (BST)", "Planificación de recursos: e-Resource (BST)"]
   },
   {
     "link":"f-delta.html",
-    "title":"Gestión de riesgos",
+    "title":"Confirmación que los documentos del proyecto estén almacenados correctamente",
     "texto":["Acciones establecidas para mitigar riesgos calificados", "Definición de plazos apropiados para revisión de riesgos y oportunidades"]
   },
   {
     "link":"f-echo.html",
-    "title":"Gestión del cambio",
-    "texto":["Protocolos de cambio", "Evaluación del impacto del cambio","Elaboración de órdenes de cambio","Facturación por variaciones"]
+    "title":"Elaboración de ficha de resumen de proyecto con la información correspondiente",
+    "texto":["Ficha resumen de proyecto"]
+  },
+  {
+    "link":"f-foxtrot.html",
+    "title":"Solicitar a control de operaciones el cierre del proyecto en sistema ERP",
+    "texto":["Este cierre incluye la confirmación que se han cumplido todos los compromisos o pagos por parte del cliente acordados por el proyecto."]
+  },
+  {
+    "link":"f-golf.html",
+    "title":"Solicitar el Cierre de archivos del proyecto en el servidor",
+    "texto":["Comunicar a TI el cierre del proyecto para la desincorporación de los archivos del servidor."]
   }]
 }
 ]
