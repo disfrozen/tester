@@ -3,54 +3,54 @@
     "id": 0,
     "tag":"1",
     "etapa":"Evaluación de la propuesta",
-    "link":"a-alpha.html",
+    "link":"alpha.html",
     "imagen":"https://links.imagerelay.com/cdn/2135/ql/9e420288d75d46aba71d6e982770d45c/AdobeStock_152758677.jpg",
     "prev":"index.html",
-    "next":"a-bravo.html"
+    "next":"bravo.html"
   },
   {
     "id": 1,
     "tag":"2",
     "etapa":"Desarrollo de la propuesta",
-    "link":"a-bravo.html",
+    "link":"bravo.html",
     "imagen":"https://links.imagerelay.com/cdn/2135/ql/d5481fee1f964fac95dae1adcc734973/AdobeStock_164449138.jpg",
-    "prev":"a-alpha.html",
-    "next":"a-charlie.html"
+    "prev":"alpha.html",
+    "next":"charlie.html"
   },
   {
     "id": 2,
     "tag":"3",
     "etapa":"Aceptación del cliente",
-    "link":"a-charlie.html",
+    "link":"charlie.html",
     "imagen":"https://links.imagerelay.com/cdn/2135/ql/30f7c7a19b874c2295474c394f0184b6/AdobeStock_115692194.jpg",
-    "prev":"a-bravo.html",
-    "next":"a-delta.html"
+    "prev":"bravo.html",
+    "next":"delta.html"
   },
   {
     "id": 3,
     "tag":"4",
     "etapa":"Planificación del proyecto",
-    "link":"a-delta.html",
+    "link":"delta.html",
     "imagen":"https://links.imagerelay.com/cdn/2135/ql/f43cf8bf94104925b6ce68e1926ae325/AdobeStock_125528645.jpg",
-    "prev":"a-charlie.html",
-    "next":"a-echo.html"
+    "prev":"charlie.html",
+    "next":"echo.html"
   },
   {
     "id": 4,
     "tag":"5",
     "etapa":"Desarrollo del proyecto",
-    "link":"a-echo.html",
+    "link":"echo.html",
     "imagen":"https://links.imagerelay.com/cdn/2135/ql/1427d2305efa4cfab074f58116050ef2/AdobeStock_258535674.jpg",
-    "prev":"a-delta.html",
-    "next":"a-foxtrot.html"
+    "prev":"delta.html",
+    "next":"foxtrot.html"
   },
   {
     "id": 5,
     "tag":"6",
     "etapa":"Finalización del proyecto",
-    "link":"a-foxtrot.html",
+    "link":"foxtrot.html",
     "imagen":"https://links.imagerelay.com/cdn/2135/ql/168fbca529924b88ba0bf35664282ee6/AdobeStock_172188022.jpg",
-    "prev":"a-echo.html",
+    "prev":"echo.html",
     "next":"index.html"
   }
 ]
