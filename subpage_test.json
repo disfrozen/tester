@@ -1,6 +1,7 @@
 [{
   "maintitle":"Desarrollo del proyecto",
   "mainlink":"echo.html",
+  "link":"e-bravo.html",
   "next":"e-charlie.html",
   "title":"Gestión técnica de los entregables",
   "button":[
