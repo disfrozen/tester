@@ -7,6 +7,7 @@
   {
     "link":"eb-alpha.html",
     "cardtext":"Gestión de los tiempos establecidos para la emisión",
+    "nextlink":"eb-bravo.html",
     "steps":[
         {
           "title":"Revisión del diseño y desarrollo",
@@ -24,6 +25,7 @@
         {
     "link":"eb-bravo.html",
     "cardtext":"Gestión de la coordinación",
+    "nextlink":"eb-charlie.html",
     "steps":[
         {
           "title":"Revisión del diseño y desarrollo",
@@ -41,6 +43,7 @@
   {
     "link":"eb-charlie.html",
     "cardtext":"Gestión de la calidad para garantizar la revisión, verificación, validación y cumplimiento de requisitos",
+    "nextlink":"eb-delta.html",
     "steps":[
         {
           "title":"Revisión del diseño y desarrollo",
@@ -58,6 +61,7 @@
   {
     "link":"eb-delta.html",
     "cardtext":"Gestión del cumplimiento de estándares normativos y legales requeridos",
+    "nextlink":"eb-echo.html",
     "steps":[
         {
           "title":"Revisión del diseño y desarrollo",
@@ -75,6 +79,7 @@
   {
     "link":"eb-echo.html",
     "cardtext":"Gestión del modelo (IBM)",
+    "nextlink":"e-charlie.html",
     "steps":[
         {
           "title":"Revisión del diseño y desarrollo",
