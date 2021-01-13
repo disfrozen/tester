@@ -1,5 +1,4 @@
-[
-  {
+{
     "maintitle":"Desarrollo del proyecto",
     "category":"Gestión de la calidad para garantizar la revisión, verificación, validación y cumplimiento de requisitos",
     "catlink":"eb-charlie.html",
@@ -7,69 +6,52 @@
       {
         "title":"Revisión del diseño y desarrollo",
         "link":"ebc-alpha.html",
-        "documents":{
-          "informe.pdf", "minuta.pdf", "guia.pdf"
-        },
-        "content":{
+        "next":"ebc-bravo.html",
+        "documents":
+          ["informe.pdf", "minuta.pdf", "guia.pdf"]
+        ,
+        "content":[
           "La revisión del diseño y desarrollo queda documentada en los planos, en las memorias de cálculo (si aplica), informes, minutas de reunión, guías de revisión, emails, otros.",
-          "<p>Los tipos de revisión que son ejecutados para garantizar que los entregables cumplen los requisitos establecidos son:</p>
-
-          <p>- Auto revisión</p>
-          <p>- Revisión del Jefe de Proyecto</p>
-          <p>- Revisión del especialista/consultor</p>
-          <p>- Revisión del diseño con el cliente</p>",
+          "<p>Los tipos de revisión que son ejecutados para garantizar que los entregables cumplen los requisitos establecidos son:</p> <p>- Auto revisión</p> <p>- Revisión del Jefe de Proyecto</p> <p>- Revisión del especialista/consultor</p> <p>- Revisión del diseño con el cliente</p>",
           "Dependiendo del tamaño, complejidad y requisitos contractuales del proyecto, también puede ejecutarse Revisión de pares, auditorias de calidad y auditorias técnicas de ingeniería."
-        }
+        ]
       },
       {
         "title":"Verificación del diseño y desarrollo",
         "link":"ebc-bravo.html",
-        "documents":{
-          "informe.pdf", "minuta.pdf", "guia.pdf"
-        },
-        "content":{
+        "next":"ebc-charlie.html",
+        "documents":
+          ["informe.pdf", "minuta.pdf", "guia.pdf"]
+        ,
+        "content":[
           "En cada disciplina el especialista verifica el entregable desarrollado y posteriormente estos son aprobados por el Jefe de Proyecto, para asegurar que el documento contenga la información necesaria y además cumplan con los requisitos de entrada del diseño.",
-          "<p>Con el fin de verificar que los entregables cumplen con los requisitos especificados en los requerimientos del contrato y en la normativa vigente, se asignan las verificaciones en las siguientes etapas:</p>
-          <p>Entregable para revisión interna</p>
-          <p>Control de cambios del entregable</p>
-          <p>Entregable en versión definitiva</p>"
-        }
+          "<p>Con el fin de verificar que los entregables cumplen con los requisitos especificados en los requerimientos del contrato y en la normativa vigente, se asignan las verificaciones en las siguientes etapas:</p> <p>Entregable para revisión interna</p> <p>Control de cambios del entregable</p> <p>Entregable en versión definitiva</p>"
+        ]
       },
       {
         "title":"Validación del diseño y desarrollo",
         "link":"ebc-charlie.html",
-        "documents":{
-          "minutas.pdf", "actas.pdf", "validaciones.pdf"
-        },
-        "content":{
+        "next":"ebc-delta.html",
+        "documents":
+          ["minutas.pdf", "actas.pdf", "validaciones.pdf"]
+        ,
+        "content":[
           "La validación del entregable se realiza en dos etapas para asegurarse que los documentos resultantes satisfacen los requisitos para su aplicación especificada o uso previsto.",
-          "<p><strong>Etapa 1</strong></p>
-          <p>El Jefe de Proyecto puede realizar reuniones interdisciplinarias, o utilizar software licenciado aplicable a la especialidad del entregable, para validar internamente la documentación, el cumplimiento de los requisitos, los parámetros de calidad y el estado de avance de los entregables del proyecto.</p>",
-          "<p><strong>Etapa 2</strong></p>
-          <p>Se realiza una validación final a través de la aprobación del cliente o quien éste delegue.</p>"
-        }
+          "<p><strong>Etapa 1</strong></p> <p>El Jefe de Proyecto puede realizar reuniones interdisciplinarias, o utilizar software licenciado aplicable a la especialidad del entregable, para validar internamente la documentación, el cumplimiento de los requisitos, los parámetros de calidad y el estado de avance de los entregables del proyecto.</p>",
+          "<p><strong>Etapa 2</strong></p> <p>Se realiza una validación final a través de la aprobación del cliente o quien éste delegue.</p>"
+        ]
       },
       {
         "title":"Salidas del diseño y desarrollo",
         "link":"ebc-delta.html",
-        "documents":{
-          "correos.pdf", "minutas.pdf", "evidencia.pdf"
-        },
-        "content":{
+        "next":"eb-charlie.html",
+        "documents":
+          ["correos.pdf", "minutas.pdf", "evidencia.pdf"]
+        ,
+        "content":[
           "El Jefe de Proyecto hace la revisión integral de los documentos y da su visto bueno antes de que sean entregados al cliente.",
-          "<p>Como resultado, se entrega como producto final lo siguiente:</p>
-          <p>Informes; </p>
-          <p>Anexos;</p>
-          <p>Memorias de cálculo;</p>
-          <p>Planos;</p>
-          <p>Especificaciones técnicas;</p>
-          <p>Reportes de cantidades de obra;</p>
-          <p>Presupuestos;</p>
-          <p>Cronogramas;</p>
-          <p>Recomendaciones de construcción;</p>
-          <p>Otros documentos.</p>"
-        }
+          "<p>Como resultado, se entrega como producto final lo siguiente:</p> <p>Informes; </p> <p>Anexos;</p> <p>Memorias de cálculo;</p> <p>Planos;</p> <p>Especificaciones técnicas;</p> <p>Reportes de cantidades de obra;</p> <p>Presupuestos;</p> <p>Cronogramas;</p> <p>Recomendaciones de construcción;</p> <p>Otros documentos.</p>"
+        ]
       }
     ]
-  }
-]
+}
