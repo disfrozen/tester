@@ -1,0 +1,17 @@
+[
+  {
+    "title":"Seleccione la Oficina",
+    "steps":[
+      "Trabajo presencial a nombre de WSP", "Edificio Parque San Damián", "Concepción", "Puerto Montt"
+      ]
+  },
+  {
+    "title":"Seleccione el Piso",
+    "steps":[
+      "Piso 01", "Piso 02", "Piso 03", "Piso 04", "Piso 05"
+    ],
+    "available":[
+      "20", "43", "54", "22", "19"
+    ]
+  }
+]
