@@ -1,4 +1,4 @@
-{
+[
   {
     "piso":"Zócalo",
     "image":"https://raw.githubusercontent.com/disfrozen/tester/main/OWSP-GEN-101-S_zocalo_simplificado.svg"
@@ -11,4 +11,4 @@
     "piso":"Piso 03",
     "image":"https://raw.githubusercontent.com/disfrozen/tester/main/OWSP-GEN-102-O_piso3_simplificado.svg"
   }
-}
+]
