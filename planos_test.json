@@ -1,14 +1,23 @@
 [
   {
     "piso":"Zócalo",
-    "image":"https://raw.githubusercontent.com/disfrozen/tester/main/OWSP-GEN-101-S_zocalo_simplificado.svg"
+    "image":"https://raw.githubusercontent.com/disfrozen/tester/main/OWSP-GEN-101-S_zocalo_simplificado.svg",
+    "puestos":[
+      "Puesto 01", "Puesto 02", "Puesto 03", "Puesto 04", "Puesto 05", "Puesto 06", "Puesto 07", "Puesto 08", "Puesto 09", "Puesto 10"
+    ]
   },
   {
     "piso":"Piso 02",
-    "image":"https://raw.githubusercontent.com/disfrozen/tester/main/OWSP-GEN-102-O_piso2_simplificado.svg"
+    "image":"https://raw.githubusercontent.com/disfrozen/tester/main/OWSP-GEN-102-O_piso2_simplificado.svg",
+    "puestos":[
+      "Puesto 01", "Puesto 02", "Puesto 03", "Puesto 04", "Puesto 05", "Puesto 06", "Puesto 07", "Puesto 08", "Puesto 09", "Puesto 10"
+    ]
   },
   {
     "piso":"Piso 03",
-    "image":"https://raw.githubusercontent.com/disfrozen/tester/main/OWSP-GEN-102-O_piso3_simplificado.svg"
+    "image":"https://raw.githubusercontent.com/disfrozen/tester/main/OWSP-GEN-102-O_piso3_simplificado.svg",
+    "puestos":[
+      "Puesto 01", "Puesto 02", "Puesto 03", "Puesto 04", "Puesto 05", "Puesto 06", "Puesto 07", "Puesto 08", "Puesto 09", "Puesto 10"
+    ]
   }
 ]
