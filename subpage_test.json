@@ -12,15 +12,19 @@
     "steps":[
         {
           "title":"Revisión del diseño y desarrollo",
+          "color": "blue";
           "link":"ebc-alpha.html"
         },{
           "title":"Verificación del diseño y desarrollo",
+          "color": "red";
           "link":"ebc-bravo.html"
         },{
           "title":"Validación del diseño y desarrollo",
+          "color": "dark";
           "link":"ebc-charlie.html"
         },{
           "title":"Salidas del diseño y desarrollo",
+          "color": "blue";
           "link":"ebc-delta.html"
         }]},
         {
@@ -30,15 +34,19 @@
     "steps":[
         {
           "title":"Revisión del diseño y desarrollo",
+          "color": "blue";
           "link":"ebc-alpha.html"
         },{
           "title":"Verificación del diseño y desarrollo",
+          "color": "red";
           "link":"ebc-bravo.html"
         },{
           "title":"Validación del diseño y desarrollo",
+          "color": "dark";
           "link":"ebc-charlie.html"
         },{
           "title":"Salidas del diseño y desarrollo",
+          "color": "blue";
           "link":"ebc-delta.html"
         }]},
   {
@@ -48,15 +56,19 @@
     "steps":[
         {
           "title":"Revisión del diseño y desarrollo",
+          "color": "blue";
           "link":"ebc-alpha.html"
         },{
           "title":"Verificación del diseño y desarrollo",
+          "color": "red";
           "link":"ebc-bravo.html"
         },{
           "title":"Validación del diseño y desarrollo",
+          "color": "dark";
           "link":"ebc-charlie.html"
         },{
           "title":"Salidas del diseño y desarrollo",
+          "color": "blue";
           "link":"ebc-delta.html"
         }]},
   {
@@ -66,15 +78,19 @@
     "steps":[
         {
           "title":"Revisión del diseño y desarrollo",
+          "color": "blue";
           "link":"ebc-alpha.html"
         },{
           "title":"Verificación del diseño y desarrollo",
+          "color": "red";
           "link":"ebc-bravo.html"
         },{
           "title":"Validación del diseño y desarrollo",
+          "color": "dark";
           "link":"ebc-charlie.html"
         },{
           "title":"Salidas del diseño y desarrollo",
+          "color": "blue";
           "link":"ebc-delta.html"
         }]},
   {
@@ -84,15 +100,19 @@
     "steps":[
         {
           "title":"Revisión del diseño y desarrollo",
+          "color": "blue";
           "link":"ebc-alpha.html"
         },{
           "title":"Verificación del diseño y desarrollo",
+          "color": "red";
           "link":"ebc-bravo.html"
         },{
           "title":"Validación del diseño y desarrollo",
+          "color": "dark";
           "link":"ebc-charlie.html"
         },{
           "title":"Salidas del diseño y desarrollo",
+          "color": "blue";
           "link":"ebc-delta.html"
         }]
   }]
