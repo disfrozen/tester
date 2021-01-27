@@ -4,7 +4,7 @@
     "catlink":"eb-charlie.html",
     "subcat":[
       {
-        "title":"Revisión del diseño y desarrollo",
+        "title":"Flex size tabs, título grande + contenido",
         "link":"ebc-alpha.html",
         "next":"ebc-bravo.html",
         "documents":
@@ -17,7 +17,7 @@
         ]
       },
       {
-        "title":"Verificación del diseño y desarrollo",
+        "title":"Título pequeño + contenido",
         "link":"ebc-bravo.html",
         "next":"ebc-charlie.html",
         "documents":
@@ -29,7 +29,7 @@
         ]
       },
       {
-        "title":"Validación del diseño y desarrollo",
+        "title":"Flex tabs, sólo contenido",
         "link":"ebc-charlie.html",
         "next":"ebc-delta.html",
         "documents":
