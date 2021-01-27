@@ -7,18 +7,21 @@
   {
     "link":"#",
     "title":"Identificación de la potencial oportunidad de negocio",
+    "color":"blue",
     "texto":[""],
     "docs":[""]
   },
   {
     "link":"a-bravo.html",
     "title":"Exploración de riesgos y oportunidades",
+    "color":"red",
     "texto":["Análisis Go No Go"],
     "docs":["doc1.pdf"]
   },
   {
     "link":"a-charlie.html",
     "title":"Autorización para participar en la propuesta",
+    "color":"red",
     "texto":["Aprobación del Go No Go", "- Delegación de autoridad"],
     "docs":["doc1.pdf", "doc2.pdf"]
   }]
