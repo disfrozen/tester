@@ -1,40 +1,40 @@
 [{
   "id": "1",
   "endlink":"bravo.html",
-  "next":"Desarrollo de la propuesta",
+  "next":"Etapa2",
   "nextnumber": "2",
   "card" : [
   {
     "link":"#",
-    "title":"Identificación de la potencial oportunidad de negocio",
+    "title":"Subetapa01",
     "color":"blue",
     "texto":[""],
     "docs":[""]
   },
   {
     "link":"a-bravo.html",
-    "title":"Exploración de riesgos y oportunidades",
+    "title":"Subetapa02",
     "color":"blue",
-    "texto":["Análisis Go No Go"],
+    "texto":["Análisis01"],
     "docs":["doc1.pdf"]
   },
   {
     "link":"a-charlie.html",
-    "title":"Autorización para participar en la propuesta",
+    "title":"Subetapa03",
     "color":"red",
-    "texto":["Aprobación del Go No Go", "- Delegación de autoridad"],
+    "texto":["Subtexto01", "Subtexto02"],
     "docs":["doc1.pdf", "doc2.pdf"]
   }]
 },
 {
   "id": "2",
   "endlink":"charlie.html",
-  "next":"Aceptación del cliente",
+  "next":"Etapa3",
   "nextnumber": "3",
   "card" : [
   {
     "link":"b-alpha.html",
-    "title":"Generación del código de la propuesta",
+    "title":"Subetapa04",
     "texto":["Plataforma de control de cotizaciones o matriz de control de cotizaciones"]
   },
   {
