@@ -2,7 +2,7 @@
   {
     "id": 0,
     "tag":"1",
-    "etapa":"Evaluación de la propuesta",
+    "etapa":"Etapa1",
     "link":"alpha.html",
     "imagen":"https://links.imagerelay.com/cdn/2135/ql/9e420288d75d46aba71d6e982770d45c/AdobeStock_152758677.jpg",
     "prev":"index.html",
@@ -11,7 +11,7 @@
   {
     "id": 1,
     "tag":"2",
-    "etapa":"Desarrollo de la propuesta",
+    "etapa":"Etapa2",
     "link":"bravo.html",
     "imagen":"https://links.imagerelay.com/cdn/2135/ql/d5481fee1f964fac95dae1adcc734973/AdobeStock_164449138.jpg",
     "prev":"alpha.html",
@@ -20,7 +20,7 @@
   {
     "id": 2,
     "tag":"3",
-    "etapa":"Aceptación del cliente",
+    "etapa":"Etapa3",
     "link":"charlie.html",
     "imagen":"https://links.imagerelay.com/cdn/2135/ql/8929019a068541a8bad945482237028c/AdobeStock_282672294.jpg",
     "prev":"bravo.html",
@@ -29,7 +29,7 @@
   {
     "id": 3,
     "tag":"4",
-    "etapa":"Planificación del proyecto",
+    "etapa":"Etapa4",
     "link":"delta.html",
     "imagen":"https://links.imagerelay.com/cdn/2135/ql/f43cf8bf94104925b6ce68e1926ae325/AdobeStock_125528645.jpg",
     "prev":"charlie.html",
@@ -38,7 +38,7 @@
   {
     "id": 4,
     "tag":"5",
-    "etapa":"Desarrollo del proyecto",
+    "etapa":"Etapa5",
     "link":"echo.html",
     "imagen":"https://links.imagerelay.com/cdn/2135/ql/1427d2305efa4cfab074f58116050ef2/AdobeStock_258535674.jpg",
     "prev":"delta.html",
@@ -47,7 +47,7 @@
   {
     "id": 5,
     "tag":"6",
-    "etapa":"Finalización del proyecto",
+    "etapa":"Etapa6",
     "link":"foxtrot.html",
     "imagen":"https://links.imagerelay.com/cdn/2135/ql/942898a95e024e1883b4b939683618ac/AdobeStock_319444228.jpg",
     "prev":"echo.html",
