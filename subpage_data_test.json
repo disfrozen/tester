@@ -11,9 +11,9 @@
           ["informe.pdf", "minuta.pdf", "guia.pdf"]
         ,
         "content":[
-          "La revisión del diseño y desarrollo queda documentada en los planos, en las memorias de cálculo (si aplica), informes, minutas de reunión, guías de revisión, emails, otros.",
-          "<p>Los tipos de revisión que son ejecutados para garantizar que los entregables cumplen los requisitos establecidos son:</p> <p>- Auto revisión</p> <p>- Revisión del Jefe de Proyecto</p> <p>- Revisión del especialista/consultor</p> <p>- Revisión del diseño con el cliente</p>",
-          "Dependiendo del tamaño, complejidad y requisitos contractuales del proyecto, también puede ejecutarse Revisión de pares, auditorias de calidad y auditorias técnicas de ingeniería."
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sem ante, dignissim sit amet lacus sit amet, semper aliquet felis.",
+          "<p>Sed et diam ac tellus consequat volutpat.</p> <p>Vivamus pellentesque vulputate ex, at tincidunt enim mattis eu.</p> <p>Phasellus vitae volutpat eros.</p> <p>Phasellus mauris dui, interdum in mattis ac, viverra sit amet dolor.</p> <p>-Aliquam pretium cursus augue, et scelerisque augue tempus in.</p>",
+          "Phasellus vitae volutpat eros. Phasellus mauris dui, interdum in mattis ac, viverra sit amet dolor. Aliquam pretium cursus augue, et scelerisque augue tempus in."
         ]
       },
       {
