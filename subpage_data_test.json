@@ -24,8 +24,8 @@
           ["informe.pdf", "minuta.pdf", "guia.pdf"]
         ,
         "content":[
-          "En cada disciplina el especialista verifica el entregable desarrollado y posteriormente estos son aprobados por el Jefe de Proyecto, para asegurar que el documento contenga la información necesaria y además cumplan con los requisitos de entrada del diseño.",
-          "<p>Con el fin de verificar que los entregables cumplen con los requisitos especificados en los requerimientos del contrato y en la normativa vigente, se asignan las verificaciones en las siguientes etapas:</p> <p>Entregable para revisión interna</p> <p>Control de cambios del entregable</p> <p>Entregable en versión definitiva</p>"
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sem ante, dignissim sit amet lacus sit amet, semper aliquet felis. Duis posuere imperdiet leo, cursus cursus dolor semper quis. Sed et diam ac tellus consequat volutpat. Vivamus pellentesque vulputate ex, at tincidunt enim mattis eu. Phasellus vitae volutpat eros. Phasellus mauris dui, interdum in mattis ac, viverra sit amet dolor. Aliquam pretium cursus augue, et scelerisque augue tempus in.",
+          "<p>Phasellus vitae volutpat eros. Phasellus mauris dui, interdum in mattis ac, viverra sit amet dolor. Aliquam pretium cursus augue, et scelerisque augue tempus in.</p>"
         ]
       },
       {
