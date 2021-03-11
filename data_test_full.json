@@ -1,28 +1,28 @@
 [{
   "id": "1",
   "endlink":"bravo.html",
-  "next":"Etapa2",
+  "next":"Desarrollo de la propuesta",
   "nextnumber": "2",
   "card" : [
   {
     "link":"#",
-    "title":"Subetapa01",
+    "title":"Identificación de la potencial oportunidad de negocio",
     "color":"blue",
     "texto":[""],
     "docs":[""]
   },
   {
     "link":"a-bravo.html",
-    "title":"Subetapa02",
+    "title":"Exploración de riesgos y oportunidades",
     "color":"blue",
-    "texto":["Análisis01"],
+    "texto":["Análisis Go No Go"],
     "docs":["doc1.pdf"]
   },
   {
     "link":"a-charlie.html",
-    "title":"Subetapa03",
+    "title":"Autorización para participar en la propuesta",
     "color":"red",
-    "texto":["Subtexto01", "Subtexto02"],
+    "texto":["Aprobación del Go No Go", "- Delegación de autoridad"],
     "docs":["doc1.pdf", "doc2.pdf"]
   }]
 },
