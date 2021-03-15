@@ -1,14 +1,14 @@
 [{
   "maintitle":"Desarrollo del proyecto",
   "mainlink":"echo.html",
-  "link":"e-bravo.html",
-  "next":"e-charlie.html",
+  "link":"e-charlie.html",
+  "next":"e-delta.html",
   "title":"Gestión técnica de los entregables",
   "button":[
   {
-    "link":"eb-alpha.html",
+    "link":"ec-alpha.html",
     "cardtext":"Gestión de los tiempos establecidos para la emisión",
-    "nextlink":"eb-bravo.html",
+    "nextlink":"ec-bravo.html",
     "steps":[
         {
           "title":"Revisión del diseño y desarrollo",
@@ -28,9 +28,9 @@
           "link":"ebc-delta.html"
         }]},
         {
-    "link":"eb-bravo.html",
+    "link":"ec-bravo.html",
     "cardtext":"Gestión de la coordinación",
-    "nextlink":"eb-charlie.html",
+    "nextlink":"ec-charlie.html",
     "steps":[
         {
           "title":"Revisión del diseño y desarrollo",
@@ -50,9 +50,9 @@
           "link":"ebc-delta.html"
         }]},
   {
-    "link":"eb-charlie.html",
+    "link":"ec-charlie.html",
     "cardtext":"Gestión de la calidad para garantizar la revisión, verificación, validación y cumplimiento de requisitos",
-    "nextlink":"eb-delta.html",
+    "nextlink":"ec-delta.html",
     "steps":[
         {
           "title":"Revisión del diseño y desarrollo",
@@ -72,9 +72,9 @@
           "link":"ebc-delta.html"
         }]},
   {
-    "link":"eb-delta.html",
+    "link":"ec-delta.html",
     "cardtext":"Gestión del cumplimiento de estándares normativos y legales requeridos",
-    "nextlink":"eb-echo.html",
+    "nextlink":"ec-echo.html",
     "steps":[
         {
           "title":"Revisión del diseño y desarrollo",
@@ -94,9 +94,9 @@
           "link":"ebc-delta.html"
         }]},
   {
-    "link":"eb-echo.html",
+    "link":"ec-echo.html",
     "cardtext":"Gestión del modelo (IBM)",
-    "nextlink":"e-charlie.html",
+    "nextlink":"e-delta.html",
     "steps":[
         {
           "title":"Revisión del diseño y desarrollo",
