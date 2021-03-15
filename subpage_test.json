@@ -57,19 +57,19 @@
         {
           "title":"Revisión del diseño y desarrollo",
           "color": "blue",
-          "link":"ebc-alpha.html"
+          "link":"ecc-alpha.html"
         },{
           "title":"Verificación del diseño y desarrollo",
           "color": "red",
-          "link":"ebc-bravo.html"
+          "link":"ecc-bravo.html"
         },{
           "title":"Validación del diseño y desarrollo",
           "color": "dark",
-          "link":"ebc-charlie.html"
+          "link":"ecc-charlie.html"
         },{
           "title":"Salidas del diseño y desarrollo",
           "color": "blue",
-          "link":"ebc-delta.html"
+          "link":"ecc-delta.html"
         }]},
   {
     "link":"ec-delta.html",
