@@ -3,40 +3,30 @@
     "id": 0,
     "sector":"Minería",
     "link":"simul.html",
-    "imagen":"https://links.imagerelay.com/cdn/2135/ql/9e420288d75d46aba71d6e982770d45c/AdobeStock_152758677.jpg",
-    "prev":"index.html",
-    "next":"bravo.html"
+    "imagen":"https://links.imagerelay.com/cdn/2135/ql/55d5510b0e2549019ea2902e0e7c365c/AdobeStock_164668660.jpg",
   },
   {
     "id": 1,
     "sector":"Alimentos y bebidas",
     "link":"simul.html",
-    "imagen":"https://links.imagerelay.com/cdn/2135/ql/d5481fee1f964fac95dae1adcc734973/AdobeStock_164449138.jpg",
-    "prev":"alpha.html",
-    "next":"charlie.html"
+    "imagen":"https://links.imagerelay.com/cdn/2135/ql/fd998e1a2f754eb3b7a5683e86f41424/VTC_International_Culinary_Institute_229.jpg",
   },
   {
     "id": 2,
     "sector":"Energía",
     "link":"simul.html",
-    "imagen":"https://links.imagerelay.com/cdn/2135/ql/8929019a068541a8bad945482237028c/AdobeStock_282672294.jpg",
-    "prev":"bravo.html",
-    "next":"delta.html"
+    "imagen":"https://links.imagerelay.com/cdn/2135/ql/994371733b2c4c2dbde967602de3ac6d/AdobeStock_277103051.jpg",
   },
   {
     "id": 3,
     "sector":"Edificación y retail",
     "link":"simul.html",
-    "imagen":"https://links.imagerelay.com/cdn/2135/ql/f43cf8bf94104925b6ce68e1926ae325/AdobeStock_125528645.jpg",
-    "prev":"charlie.html",
-    "next":"echo.html"
+    "imagen":"https://links.imagerelay.com/cdn/2135/ql/2c68d68c28ae4558b41a9a6f87efe3c4/AdobeStock_194907207.jpg",
   },
   {
     "id": 4,
     "sector":"Otros sectores productivos",
     "link":"contacto.html",
-    "imagen":"https://links.imagerelay.com/cdn/2135/ql/1427d2305efa4cfab074f58116050ef2/AdobeStock_258535674.jpg",
-    "prev":"delta.html",
-    "next":"foxtrot.html"
+    "imagen":"https://links.imagerelay.com/cdn/2135/ql/c1849ad126f443d3a31a11552c39629a/AdobeStock_179633983.jpg",
   }
 ]
