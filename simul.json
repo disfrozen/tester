@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "sector":"Minería",
+    "link":"simul.html",
+    "imagen":"https://links.imagerelay.com/cdn/2135/ql/9e420288d75d46aba71d6e982770d45c/AdobeStock_152758677.jpg",
+    "prev":"index.html",
+    "next":"bravo.html"
+  },
+  {
+    "id": 1,
+    "sector":"Alimentos y bebidas",
+    "link":"simul.html",
+    "imagen":"https://links.imagerelay.com/cdn/2135/ql/d5481fee1f964fac95dae1adcc734973/AdobeStock_164449138.jpg",
+    "prev":"alpha.html",
+    "next":"charlie.html"
+  },
+  {
+    "id": 2,
+    "sector":"Energía",
+    "link":"simul.html",
+    "imagen":"https://links.imagerelay.com/cdn/2135/ql/8929019a068541a8bad945482237028c/AdobeStock_282672294.jpg",
+    "prev":"bravo.html",
+    "next":"delta.html"
+  },
+  {
+    "id": 3,
+    "sector":"Edificación y retail",
+    "link":"simul.html",
+    "imagen":"https://links.imagerelay.com/cdn/2135/ql/f43cf8bf94104925b6ce68e1926ae325/AdobeStock_125528645.jpg",
+    "prev":"charlie.html",
+    "next":"echo.html"
+  },
+  {
+    "id": 4,
+    "sector":"Otros sectores productivos",
+    "link":"contacto.html",
+    "imagen":"https://links.imagerelay.com/cdn/2135/ql/1427d2305efa4cfab074f58116050ef2/AdobeStock_258535674.jpg",
+    "prev":"delta.html",
+    "next":"foxtrot.html"
+  }
+]
