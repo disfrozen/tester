@@ -1,8 +1,8 @@
 [
   {
-    "title":"Seleccione la Oficina",
+    "title":"Seleccione una sucursal",
     "steps":[
-      "Trabajo presencial a nombre de WSP", "Edificio Parque San Damián", "Concepción", "Puerto Montt"
+      "Sucursal 01", "Sucursal 02", "Sucursal 03", "Sucursal 04"
       ]
   },
   {
